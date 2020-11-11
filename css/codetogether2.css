@@ -1,0 +1,55 @@
+/* 
+Together-2
+ */
+ body{
+	background:#FA8072;
+	margin:2%;
+	font-size: 150%;
+
+}
+
+header{
+	background: #FF8C00;
+	text-align: center;
+	padding-bottom: 15px;
+}
+
+h1{
+	color: #FFFFE0;
+}
+
+nav{
+	font-variant: small-caps;
+	font-family: Old English, "Airborne", serif;
+	font-size: 150%;
+}
+
+h2{
+	color: #555555;
+	background: #00FF00;
+}
+
+section{
+	width:30%;
+	margin-right: 2%;
+	display:inline-block;
+	float:left;
+}
+
+summary{
+	font-style:normal;
+}
+
+details{
+	font-style: italic;
+}
+
+footer{
+	background: #555555;
+	height:100px;
+	clear: both;
+}
+
+img{
+	width: 75px;
+}
